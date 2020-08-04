@@ -5,7 +5,7 @@ with open("README.md", "r") as f:
 
 setuptools.setup(
     name="primelib-clement-bonnet", # Replace with your own username
-    version="0.0.1",
+    version="0.0.2",
     author="Clément Bonnet",
     author_email="clement.bonnet16@gmail.com",
     description="A small package to work with prime numbers",
