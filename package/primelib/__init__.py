@@ -1,1 +1,0 @@
-from primelib import prime_numbers
