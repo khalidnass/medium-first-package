@@ -1,4 +1,4 @@
-from primelib import is_prime
+from primelib.prime_numbers import is_prime
 
 def test_false():
     assert is_prime(10) is False
